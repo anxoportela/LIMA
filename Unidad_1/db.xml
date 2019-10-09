@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<videoclub>
+    <pelicula>
+        <nombre>El silencio de los corderos</nombre>
+        <director>Jonathan Demme</director>
+        <ano>1991</ano>
+    </pelicula>
+    <pelicula>
+        <nombre>Alguien voló sobre el nido del cuco</nombre>
+        <director>Milos Forman</director>
+        <ano>1975</ano>
+    </pelicula>
+</videoclub>
