@@ -7,6 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Documento de Prueba</title>
     <style>
+        .p {
+            text-align: left;
+        }
         .menu {
             background-color: #333;
             overflow: hidden;
@@ -30,6 +33,20 @@
             background-color: #a8a8a8;
             color: #fff;
         }
+
+        #sub {
+            float: left;
+            margin-left: 40px;
+        }
+
+        #sup {
+            float: left;
+            margin-left: 110px;
+        }
+
+        #indice {
+            text-align: justify;
+        }
     </style>
 </head>
 
@@ -48,9 +65,11 @@
     <section>
         <article>
             <p>Aquí introduciríamos el primer párrafo</p>
-            <p>Aliqua adipisicing duis dolore do <strong>commodo</strong> ea elit excepteur reprehenderit pariatur voluptate labore nulla
+            <p>Aliqua adipisicing duis dolore do <strong>commodo</strong> ea elit excepteur reprehenderit pariatur
+                voluptate labore nulla
                 consequat. Velit eu ipsum ipsum amet sunt cupidatat cillum nisi irure aute consequat. Nostrud irure
-                pariatur veniam ullamco. Cupidatat <em>ipsum</em> fugiat dolore quis commodo sit reprehenderit in dolore qui ex
+                pariatur veniam ullamco. Cupidatat <em>ipsum</em> fugiat dolore quis commodo sit reprehenderit in dolore
+                qui ex
                 aliqua. Ad ad ipsum sit commodo nostrud irure mollit in mollit irure.</p>
             <p>Ex et commodo ea do anim nostrud cupidatat anim magna. Sit sunt nisi amet qui ex et enim ullamco mollit
                 eiusmod. Commodo in nisi culpa Lorem officia minim voluptate.</p>
@@ -61,7 +80,14 @@
             <p>Ahora vamos a usa una linea horizontal con la etiqueta '&lt;hr \&gt;'
                 <hr \>
             </p>
-            
+            <p>Vamos a crear una cita con '&lt;blockquote&gt;'
+                <blockquote>Esto es una cita en HTML</blockquote>
+            </p>
+            <p id="indice">Se pueden utilizar las etiquetas '&lt;sup&gt;' y '&lt;sub&gt;' para añadir subíndices y
+                superíndices<br />
+                <span id="sup">Superíndice<sup>superíndice</sup></span> <span
+                    id="sub">Subíndice<sub>subíndice</sub></span>
+            </p>
         </article>
     </section>
 </body>
