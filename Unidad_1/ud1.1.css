@@ -1,0 +1,59 @@
+h1 {
+    color:blue;
+}
+
+h2 {
+    color:red;
+}
+
+.clase1 {
+    font-style: italic;
+}
+
+.clase2 {
+    font-style: normal;
+    font-weight: bold;
+}
+
+.mayusculas {
+    text-transform: uppercase;
+}
+
+.importante {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#primero {
+    color:blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#segundo {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.colortexto {
+    color: rgb(0, 247, 255);
+}
+
+.colorfondo {
+    background-color: hsl(16, 100%, 66%);
+}
+
+.borde {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: yellowgreen;
+}
+
+.simpleBorde {
+    border: solid 5px green;
+}
+
+.mixBorde {
+    border-top-style: dotted;
+    border-bottom-style: dashed;
+    border-color: blueviolet;
+}
