@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Notable|Pathway+Gothic+One|Red+Hat+Display&display=swap');
+
+* {
+    background-color: rgb(255, 184, 79)
+}
+
+.centrado {
+    text-align: center;
+}
+
+.seccion {
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1 + h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: medium;
+    font-weight: normal;
+}
+
+#titular {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: bolder;
+}
+
+p::first-letter{
+    font-size: 2em;
+}
+
+span p {
+    text-indent: 50px;
+}
+
+span p:first-of-type{
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: bolder;
+    text-indent: 0px;
+}
+
+
+em {
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: italic;
+    font-size: large;
+    font-weight: normal;
+    text-decoration-line: underline overline;
+}
