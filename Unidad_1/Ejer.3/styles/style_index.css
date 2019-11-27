@@ -1,3 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Notable|Pathway+Gothic+One|Red+Hat+Display&display=swap');
+
 * {
     background-color: rgb(255, 184, 79)
+}
+
+th,
+td {
+  text-align: center;
+  width: 30%;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.padding td{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h1 + h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: medium;
+    font-weight: normal;
+}
+
+.seccion {
+    font-family: 'Bebas Neue', cursive;
+}
+
+#titular {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: bolder;
 }
