@@ -4,22 +4,57 @@
     background-color: rgb(255, 184, 79)
 }
 
-th,
+/* th,
 td {
-  text-align: center;
-  width: 30%;
-}
+    text-align: center;
+    width: 30%;
+} */
 
 .centrado {
     text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
 }
 
-.padding td{
+/* .padding td {
     padding-left: 30px;
     padding-right: 30px;
+} */
+
+.clear {
+    clear: both;
 }
 
-h1 + h2 {
+.izqImg {
+    float: left;
+    height: 150px;
+    width: 300px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.izqTxt {
+    float: left;
+    border: 1px solid black;
+    height: 150px;
+    width: 500px;
+    margin-left: 60px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: bolder;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(189, 126, 32)
+}
+
+h1+h2 {
     font-family: 'Bebas Neue', cursive;
     font-size: medium;
     font-weight: normal;
@@ -29,7 +64,31 @@ h1 + h2 {
     font-family: 'Bebas Neue', cursive;
 }
 
-#titular {
+/* #titular {
     font-family: 'Red Hat Display', sans-serif;
     font-weight: bolder;
+} */
+
+.centrado img {
+    border-bottom: 1px solid black;
+}
+
+.izqTxt a {
+    background-color: rgb(189, 126, 32)
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: rgb(43, 43, 43);
+}
+
+a:active {
+    color: rgb(43, 43, 43);
 }
