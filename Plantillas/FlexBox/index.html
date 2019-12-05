@@ -2,6 +2,9 @@
 <html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <style>
         body {
             font: 24px Helvetica;
@@ -65,7 +68,7 @@
             background: #ffeebb;
         }
 
-        /* Too narrow to support three columns */
+        /* No lo suficientemente ancho para soportar las tres columnas */
         @media all and (max-width: 640px) {
 
             #main,
@@ -77,7 +80,7 @@
             #main>article,
             #main>nav,
             #main>aside {
-                /* Return them to document order */
+                /* Devolver el contenido de la página en orden */
                 -webkit-order: 0;
                 order: 0;
             }
