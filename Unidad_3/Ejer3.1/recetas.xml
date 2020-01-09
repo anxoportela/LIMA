@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recetas>
+    <receta1>
+        <ingredientes_r1>
+            <ingrediente>200 gr de marisco</ingrediente>
+            <ingrediente>40 gr de pimiento morrón</ingrediente>
+            <ingrediente>49 gr de zanahoria</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>30 gr de apio</ingrediente>
+            <ingrediente>1 tomate rojo</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimienta</ingrediente>
+            <ingrediente>Aceite de oliva</ingrediente>
+            <ingrediente>Caldo de pescado</ingrediente>
+        </ingredientes_r1>
+        <pasos_r1>
+            <pasos>Esta receta de sopa de marisco y verdura es de las más fáciles de preparar que existe. El primer paso será preparar las verduras. Las pelaremos y las iremos picando finamente, serán la base para nuestra sopa.</pasos>
+            <pasos>En una olla mediana añadiremos un poco de aceite y sofreiremos el ajo triturado. Debe estar unos segundos, simplemente que coja color, nada más. Iremos añadiendo los vegetales para que se vayan pochando poco a poco. El último de los ingredientes por ser el que mayor sabor aporta es el apio, además de tardar menos en prepararse.</pasos>
+            <pasos>Cuando tenemos las verduras doradas y un poco blandas, es el momento de añadir el marisco. Para esta receta podemos servirnos de cualquier tipo de marisco. Fresco o si es en lata, debe ser al natural, lo trocearemos y los reservaremos para este punto. La opción del marisco congelado también es aceptable. Simplemente lo descongelamos y troceamos previamente.</pasos>
+            <pasos>Una vez el marisco haya soltado sus jugos y estos estén bien unidos a los de las verduras, llega la hora de incorporar el caldo de pescado. Este elemento también lo podemos comprar preparado, existen multitud de marcas que lo elaboran y envasan con métodos naturales. Aunque, si tienes tiempo puedes hacerlo previamente, siempre le dará un toque más especial.</pasos>
+            <pasos>El último de los elementos que añadirá color y sabor a nuestra sopa es el tomate. Lo pelamos y lo cortamos en trozos grandes y lo incorporamos a la sopa. Todos los ingredientes deberán estar unos 30 minutos a fuego medio para que queden bien integrados. Salpimentamos al gusto y podemos servirla. Si te gusta con un poco de pasta, también está buenísima, aunque por si sola ya es una sopa bastante contundente y enérgica.</pasos>
+        </pasos_r1>
+    </receta1>
+
+    <receta2>
+        <ingredientes_r2>
+            <ingrediente>250 gr de pechugas de pollo</ingrediente>
+                <ingrediente>1 pimiento rojo</ingrediente>
+                <ingrediente>1 cebolla</ingrediente>
+                <ingrediente>1 berenjena</ingrediente>
+                <ingrediente>100 gr de champiñones</ingrediente>
+                <ingrediente>1 cucharada de pimentón dulce</ingrediente>
+                <ingrediente>Sal</ingrediente>
+                <ingrediente>Pimienta negra</ingrediente>
+                <ingrediente>Aceite de oliva</ingrediente>
+        </ingredientes_r2>
+        <pasos_r2>
+            <pasos>El primer paso para conseguir crear una receta que impresiona es hacer la escalivada. Esta receta tradicional tiene infinidad de buenas propiedades que empiezan con una cocción al horno que elimina la grasa de cualquier otro sistema.</pasos>
+            <pasos>Vamos a untar el pimiento rojo en aceite para que se pueda pelar más fácilmente. Lo ponemos en una fuente para horno, añadimos la cebolla y la berenjena.</pasos>
+            <pasos>Pondremos estos ingredientes a 180º durante unos 15 minutos hasta que estén perfectamente cocinados. Esperamos a que enfríen para pelar el pimiento, la cebolla y la berenjena, cortaremos esta base en tiras de más o menos el mismo tamaño.</pasos>
+            <pasos>Ponemos la escalivada en el vaso de la batidora, lo vamos a poner con un chorrito de aceite y sal. Trituramos todo hasta tener lista una base ideal para nuestro pollo. Le añadimos una cucharada de pimentón para darle más color.</pasos>
+            <pasos>Para esta receta usaremos pechugas, aunque podemos emplear cualquier parte del pollo que tengamos en la nevera. Es una buena manera de utilizar este tipo de ingrediente de una forma distinta.</pasos>
+            <pasos>Nos ponemos manos a la obra con las pechugas, las salpimentamos al gusto y empezamos a cocinarlas en una sartén con un poquito de aceite. Cuando empiecen a estar listas, añadimos la salsa que tenemos preparada.</pasos>
+            <pasos>Los champiñones los lavamos y troceamos para incorporarlos en este momento. Dejaremos que se cocinen durante unos minutos, cuando veamos que todos los ingredientes están bien ligados apagamos el fuego. Si nos gusta una salsa más cremosa podemos añadirle un poco de nata para cocinar o leche evaporada en función de la grasa que queramos incorporar al plato. Solo nos quedará probarlo con un poco de pan.</pasos>
+        </pasos_r2>
+    </receta2>
+
+    <receta3>
+        <ingredientes_r3>
+            <ingrediente>1 piña madura</ingrediente>
+                <ingrediente>150 g de azúcar blanco</ingrediente>
+                <ingrediente>1 L de agua</ingrediente>
+                <ingrediente>1 vaina de vainilla</ingrediente>
+                <ingrediente>Jarabe de piña o de granadina</ingrediente>
+                <ingrediente>1 cucharada de coco en polvo</ingrediente>
+                <ingrediente>¼ de vaso de tequila</ingrediente>
+                <ingrediente>Aceite de oliva virgen extra</ingrediente>
+                <ingrediente>Hojas de menta para decorar</ingrediente>
+        </ingredientes_r3>
+        <pasos_r3>
+            <pasos>Trocear la piña en dos partes iguales. Triturar una mitad con el azúcar y refrigerar. Abrir el refrigerador cada 40 minutos y romper la capa de hielo con un tenedor. Repetir este procedimiento unas 4 veces.</pasos>
+            <pasos>Picar la otra mitad de la piña en dados. Reservar.</pasos>
+            <pasos>Abrir la vaina de vainilla. Sacar las semillas y reservar con la vaina.</pasos>
+            <pasos>Calentar una sartén a fuego medio. Verter un chorrito de aceite de oliva virgen extra. Saltear los dados de piña. Agregar las semillas de vainilla y la vaina.</pasos>
+            <pasos>Verter el tequila en la sartén y esperar a que se evapore el alcohol. Retirar del fuego y reservar.</pasos>
+            <pasos>Para servir, poner una porción de piña salteada en el fondo del vaso, agregar un chorrito de jarabe de piña o de granadina. Raspar una porción de piña congelada y ponerla en el vaso.</pasos>
+            <pasos>Espolvorear coco en polvo.</pasos>
+            <pasos>Decorar con una hoja de menta y servir este postre frío, antes de que el raspado se derrita.</pasos>
+        </pasos_r3>
+    </receta3>
+</recetas>
