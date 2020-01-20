@@ -68,4 +68,19 @@
             <pasos>Decorar con una hoja de menta y servir este postre frío, antes de que el raspado se derrita.</pasos>
         </pasos_r3>
     </receta3>
+
+    <receta4>
+        <ingredientes_r4>
+            <ingrediente>40 ml de whisky</ingrediente>
+            <ingrediente>20 ml de vermut seco ó dulce</ingrediente>
+            <ingrediente>1 chorrito de angostura</ingrediente>
+            <ingrediente>1 aceituna o una corteza de limón</ingrediente>
+            <ingrediente>1 guinda o una cereza</ingrediente>
+        </ingredientes_r4>
+        <pasos_r4>
+            <pasos>Mezclamos el whisky, el vermut, la angostura y los cubitos de hielo en una coctelera y los agitamos.  Si no tenemos coctelera lo podemos hacer en un recipiente bien cerrado.</pasos>
+            <pasos>Lo ponemos todo en la copa que vayamos a usar, mejor si es copa en forma de V o de cóctel. En su defecto podemos usar un vaso bajo.</pasos>
+            <pasos>Decoramos con la aceituna, la corteza o la guinda según hayamos usado vermut seco o dulce.</pasos>
+        </pasos_r4>
+    </receta4>
 </recetas>
