@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xmlAvanzado xmlns:sec="http://limanews.com/noticias/seccion/" xmlns:tit="http://limanews.com/noticias/titular/"
+    xmlns:not="http://limanews.com/noticias/noticia/" xmlns:enc="http://limanews.com/noticias/encabezado/"
+    xmlns:rec="http://recetas.com/recetas/recetas/" xmlns:ing="http://recetas.com/recetas/ingredientes/"
+    xmlns:pas="http://recetas.com/recetas/pasos/" xmlns:nom="http://recetas.com/recetas/nombreReceta/">
+
+    <enc:noticias>
+        <noticia1>
+            <sec:seccion>
+                <sec:principal>Deportes</sec:principal>
+                <sec:secundaria>Atletismo</sec:secundaria>
+            </sec:seccion>
+            <tit:titular>Kipchoge: "Lo importante es el atleta, las zapatillas no te hacen correr rápido"</tit:titular>
+            <not:noticia>
+                El atleta keniano destaca su dedicación física y mental para bajar de las dos horas en el maratón y
+                relativiza la ayuda tecnológica: &quot;Soy un ser humano, no un coche&quot;
+                El sábado, poco después de romper la barrera de las dos horas en la distancia del maratón, Eliud
+                Kipchoge
+                resumió su asombrosa carrera en el parque del Prater de Viena con una analogía espacial en Twitter:
+                &quot;¡Hoy fuimos a la Luna y regresamos a la Tierra!&quot;, escribió.
+                En su hazaña hay ecos de la carrera espacial de la guerra fría. La meticulosa selección de los primeros
+                astronautas. El reclutamiento de investigadores de campos diversos para exprimir la ciencia e impulsar
+                al
+                hombre a un lugar inalcanzable. El cálculo obsesivo para controlar las condiciones al límite: al Apolo
+                11 le
+                quedaban 30 segundos de combustible cuando se posó en la Luna; a Kipchoge le sobraban 20 segundos cuando
+                cruzó la meta en 1h 59m 40s. La creación de herramientas específicas para el experimento: cohetes,
+                combustibles, computadoras, preparados alimenticios, las zapatillas Nike Alphafly. Y el largo camino de
+                regreso a casa: el Apolo 11 despegó el 16 de julio de 1969, alunizó el 20 y amerizó en el Pacífico el
+                24. El
+                prodigio keniano, de 34 años, fue a la Luna y regresó el 12 de octubre, y este martes todavía no había
+                tocado tierra en su casa de Eldoret.
+                Kipchoge no ve ahí lo esencial: &quot;Lo importante es el atleta. Si tienes buenas zapatillas y no estás
+                en
+                forma, no puedes hacer nada. Al final, las zapatillas no son la respuesta; no te hacen correr rápido.
+                Soy un
+                ser humano. No es como con un coche, que tienes dos tipos de combustible: un combustible que va muy
+                rápido y
+                otro combustible que es lento. Con los seres humanos, si no estás en forma mental y físicamente, no
+                puedes
+                hacer nada. Concentrémonos en el atleta real&quot;, defiende.
+                La pulsera de Sandy
+                Quienes trabajan con él, como Roig, destacan su convicción casi por encima de sus condiciones físicas.
+                &quot;Con un objetivo a la vista, da el 100% para ese objetivo. No es fácil dejar la familia a un lado,
+                y no
+                saltarse nada. Él es de los que dice que si estás aquí es para entrenar; con él, tonterías las justas.
+                Algunas veces que empieza a chispear, tampoco afloja&quot;, dice.
+                Profesionalidad y convicción. Desde el primer momento, instauró la confianza en el grupo. Por la fe que
+                transmitía, le ves tan convencido... Desde el primer día no mostró duda alguna. Decía: &quot;A Viena no
+                vamos a intentarlo; sólo vamos a demostrarlo&quot;, recuerda Roig que proclamaba Kipchoge sobre el
+                asalto a
+                las dos horas. &quot;Sabe de su capacidad y de su esfuerzo. Y sabe que lo que tiene que hacer es correr,
+                que
+                todo va a funcionar si cumple a rajatabla el plan&quot;, dice Roig.
+                El plan había comenzado en 2016, cuando como en la carrera espacial de la guerra fría aún había dos
+                potencias persiguiendo el reto de las dos horas, Adidas y Nike. La marca estadounidense lo escogió en la
+                terna de maratonianos que lo intentó en el circuito de Monza en mayo de 2017. Esa mañana a Kipchoge le
+                sobraron 26 segundos, pero no olvidó aquel impulso. En Viena corrió con una pulsera en la muñeca
+                derecha: un
+                cordón amarillo con una placa plateada en la que se leía &quot;Sandy&quot;. Recordaba a Sandy Bodecker,
+                el
+                ejecutivo de Nike impulsor de aquel proyecto conocido como Breaking2, fallecido en octubre del año
+                pasado.
+                El lunes, dos días después de conseguir finalmente lo que empezaron juntos, Kipchoge tuiteó:
+                &quot;Sandy, lo
+                hicimos&quot;.
+            </not:noticia>
+        </noticia1>
+
+        <enc:noticia2>
+            <sec:seccion>
+                <sec:principal>Deporte local</sec:principal>
+                <sec:secundaria>San Martiño 2019</sec:secundaria>
+            </sec:seccion>
+            <tit:titular>Alejandro Fernández: un pentacampeón "feliz"</tit:titular>
+            <not:noticia>
+                Alejandro Fernández, ganador absoluto por quinta vez, se mostró &quot;muy satisfecho&quot; y reconoció
+                que
+                &quot;con el tiempo se valorará lo que estoy logrando&quot;
+                Un ourensano ganando en casa. ¿Puede haber algo que haga más feliz a un atleta? Desde luego que no. Pues
+                si
+                esto pareciera poco, Alejandro Fernández lo ha hecho por quinta vez, la tercera consecutiva. El
+                atletismo
+                ourensano ya tiene a su pentacampeón &quot;feliz&quot;.
+                &quot;Soy ourensano. Nacido y criado aquí. Es cierto que rajé aquel año queme dejaron fuera de la
+                carrera,pero lo hice porque amo a Ourense, es la mejor ciudad del mundo, y por ello ganar aquí otra vez
+                es
+                súperespecial para mí&quot;, afirma Alejandro Fernández.
+                Ganó hace nueve días en Negreira con un marcón y ayer ha vuelto a pulverizar sus registros personales.
+                &quot;Con mi estado de forma tenía claro que no podía dejar dormir la carrera. La idea era salir a un
+                ritmo
+                entre 2:55 y 3:00 por kilómetro y que aguantara quien pudiera. Las tres veces que gané aquí por debajo
+                de 30
+                minutos la táctica era tirar desde el principio&quot;.
+                A pesar del tiempo y la superioridad (22 segundos a Roade), &quot;la carrera no fue fácil. Iván (Roade)
+                no
+                venía lejos y no me ha permitido relajarme. Tuve una minicrisis en el kilómetro seis y relajé un poco el
+                ritmo para recuperar y volver a la carga después, por debajo de tres minutos el kilómetro&quot;.
+                Álex Fernández finalizó destacando que &quot;no puedo pedir más. A mis 34 años y después de tantas
+                lesiones
+                volver a mis mejores marcas es increíble. He luchado mucho por ello, pero ha merecido la pena. Creo que
+                con
+                el tiempo se valorará todo lo que estoy consiguiendo&quot;.
+                Dominio de Joselyn Brea
+                En categoría femenina, la vencedora fue Joselyn Brea (Gimnástica Pontevedra).
+                La hispano-venezolana dominó la clasificación con autoridad. &quot;Estoy muy contenta. Durante todo el
+                recorrido me he encontrado muy bien, cómoda, con fuerzas para esprintar en el tramo final. Me queda algo
+                de
+                pena porque no se podía correr muy rápido en la zona de piedra y adoquín, y creo que podía hacer mejor
+                marca, pero satisfecha por la victoria en una carrera exigente como esta&quot;.
+                Brea se quitó una espinita. &quot;El año pasado no pude venir a correr a Ourense, así que estoy
+                encantada de
+                haber vuelto y, aún encima, conseguir la victoria&quot;.
+            </not:noticia>
+        </enc:noticia2>
+
+        <enc:noticia3>
+            <sec:seccion>
+                <sec:principal>Sucesos</sec:principal>
+                <sec:secundaria>Informática</sec:secundaria>
+            </sec:seccion>
+            <tit:titular>Everis, Cadena Ser y varias empresas españolas, afectadas por una oleada de ataques
+                informáticos
+                con ransomware</tit:titular>
+            <not:noticia>
+                La cadena Ser ha sido la primera en reconocerlo de forma pública: la emisora del grupo Prisa ha sufrido
+                un
+                ataque de virus informático &quot;del tipo ransomware&quot;, con el que se han visto afectados
+                &quot;todos
+                sus sistemas informáticos&quot; de forma &quot;generalizada&quot;.
+                &quot;Siguiendo el protocolo establecido en ciberataques, la Ser se ha visto en la necesidad de
+                desconectar
+                todos sus sistemas informáticos operativos&quot;, ha advertido el mismo medio de comunicación en un
+                comunicado colgado en su propia página web.
+                Pero la Ser no ha sido la única en sufrir un ataque masivo de ransomware: diversos medios de
+                comunicación
+                como El Confidencial apuntan a que dos grandes consultoras como Everis también han sido víctimas de esta
+                oleada de ataques maliciosos.
+                Desde hace varias horas hay una imagen circulando por la red que se atribuye al monitor de uno de los
+                empleados de Everis. En él, se puede ver cómo la pantalla muestra el siguiente mensaje:
+                &quot;Hola Everis. Tu red ha sido hackeada y encriptada. No hay disponible en internet ningún software
+                gratuito de desencriptado. Envianos un correo a sydney.wiley@protonmail.com o
+                evangelina.mathews@tutanota.com para saber cuánto cuesta el rescate. Mantén en un lugar seguro nuestro
+                contacto. Divulgarlo podría hacer imposible el desencriptado. Por favor, usa el nombre de tu compañía en
+                el
+                asunto del correo&quot;.
+                Según El Confidencial, se trata de una imagen real.
+                El consultor en ciberseguridad, Arnau Estebanell, dice haber tenido acceso a una &quot;confirmación
+                visual&quot;, en otra pantalla de otro de los empleados de Everis. En el tuit de Estebanell se confirma
+                cómo
+                los archivos de Everis se están encriptando con extensiones .3v3r1s y los trabajadores ya se han
+                marchado a
+                casa para trabajar en remoto.
+                Es de esperar que el ataque se continúe reproduciendo en pequeñas y medianas empresas españolas a lo
+                largo
+                de la tarde. Durante buena parte de la mañana de este lunes se ha advertido que KPMG podría estar
+                sufriendo
+                también un cíberataque, extremo que la compañía ha desmentido.
+                Esta nueva oleada de ataques que está centrándose en empresas europeas está teniendo lugar un mes
+                inmediatamente después de que el Centro Criptológico Nacional, dependiente del CNI, advirtiese de la
+                oleada
+                de ataques con ransomware que las administraciones públicas estaban soportando.
+                De hecho, el Ayuntamiento de Jerez de la Frontera llegó a estar más de una semana con sus ordenadores
+                apagados y agentes del CCN tuvieron que acudir al Consistorio gaditano para ayudar a los servicios
+                informáticos locales a reparar el problema.
+            </not:noticia>
+        </enc:noticia3>
+
+        <enc:noticia4>
+            <sec:seccion>
+                <sec:principal>Noticias</sec:principal>
+                <sec:secundaria>Informática</sec:secundaria>
+            </sec:seccion>
+            <tit:titular>Facebook cancela sus planes para añadir anuncios en Whatsapp</tit:titular>
+            <not:noticia>
+                Desde la compra de Whatsapp por parte de Facebook y tras acabar con el plan de pago, el gigante de las
+                redes
+                sociales ha investigado maneras de monetizar la que es la aplicación de mensajería instantánea más
+                famosa y
+                utilizada del mundo. El plan que tenían previsto para este año 2020 era el de comenzar a incluir
+                distintos
+                tipos de anuncios y publicidad en Whatsapp inicialmente en los &quot;Estados&quot; (esa función similar
+                a
+                las &quot;histories&quot; de instagram).
+                Sin embargo, parece que la compañía se ha echado atrás y han cancelado todo el proyecto, eliminando
+                todas
+                las líneas de código que se habían ido implementando en el proyecto y disolviendo al equipo de
+                trabajadores
+                encargados de llevarlo a cabo.
+                Las razones de la cancelación no se han desvelado, pero posiblemente tenga mucho que ver con el rechazo
+                que
+                produjo el anuncio de la inclusión de publicidad en Whatsapp.
+                Sea como sea, la compañía parece que seguirá centrada en monetizar la versión para negocios del popular
+                servicio de mensajería, Whatsapp Bussiness, con la que buscan crear una plataforma de comunicación entre
+                las
+                empresas y sus usuarios o consumidores, por lo que, al menos de momento, los usuarios &quot;de a
+                pie&quot;
+                no tendremos publicidad al utilizar Whatsapp.
+            </not:noticia>
+        </enc:noticia4>
+    </enc:noticias>
+
+    <nom:recetas>
+        <rec:receta1 nombre="Sopa de Marisco y Verdura">
+            <ing:ingredientes_r1>
+                <ingrediente>200 gr de marisco</ingrediente>
+                <ingrediente>40 gr de pimiento morrón</ingrediente>
+                <ingrediente>49 gr de zanahoria</ingrediente>
+                <ingrediente>1 diente de ajo</ingrediente>
+                <ingrediente>30 gr de apio</ingrediente>
+                <ingrediente>1 tomate rojo</ingrediente>
+                <ingrediente>Sal</ingrediente>
+                <ingrediente>Pimienta</ingrediente>
+                <ingrediente>Aceite de oliva</ingrediente>
+                <ingrediente>Caldo de pescado</ingrediente>
+            </ing:ingredientes_r1>
+            <pas:pasos_r1>
+                <pasos>Esta receta de sopa de marisco y verdura es de las más fáciles de preparar que existe. El primer
+                    paso
+                    será preparar las verduras. Las pelaremos y las iremos picando finamente, serán la base para nuestra
+                    sopa.</pasos>
+                <pasos>En una olla mediana añadiremos un poco de aceite y sofreiremos el ajo triturado. Debe estar unos
+                    segundos, simplemente que coja color, nada más. Iremos añadiendo los vegetales para que se vayan
+                    pochando poco a poco. El último de los ingredientes por ser el que mayor sabor aporta es el apio,
+                    además
+                    de tardar menos en prepararse.</pasos>
+                <pasos>Cuando tenemos las verduras doradas y un poco blandas, es el momento de añadir el marisco. Para
+                    esta
+                    receta podemos servirnos de cualquier tipo de marisco. Fresco o si es en lata, debe ser al natural,
+                    lo
+                    trocearemos y los reservaremos para este punto. La opción del marisco congelado también es
+                    aceptable.
+                    Simplemente lo descongelamos y troceamos previamente.</pasos>
+                <pasos>Una vez el marisco haya soltado sus jugos y estos estén bien unidos a los de las verduras, llega
+                    la
+                    hora de incorporar el caldo de pescado. Este elemento también lo podemos comprar preparado, existen
+                    multitud de marcas que lo elaboran y envasan con métodos naturales. Aunque, si tienes tiempo puedes
+                    hacerlo previamente, siempre le dará un toque más especial.</pasos>
+                <pasos>El último de los elementos que añadirá color y sabor a nuestra sopa es el tomate. Lo pelamos y lo
+                    cortamos en trozos grandes y lo incorporamos a la sopa. Todos los ingredientes deberán estar unos 30
+                    minutos a fuego medio para que queden bien integrados. Salpimentamos al gusto y podemos servirla. Si
+                    te
+                    gusta con un poco de pasta, también está buenísima, aunque por si sola ya es una sopa bastante
+                    contundente y enérgica.</pasos>
+            </pas:pasos_r1>
+        </rec:receta1>
+
+        <rec:receta2 nombre="Pollo con salsa de escalivada y champiñones">
+            <ing:ingredientes_r2>
+                <ingrediente>250 gr de pechugas de pollo</ingrediente>
+                <ingrediente>1 pimiento rojo</ingrediente>
+                <ingrediente>1 cebolla</ingrediente>
+                <ingrediente>1 berenjena</ingrediente>
+                <ingrediente>100 gr de champiñones</ingrediente>
+                <ingrediente>1 cucharada de pimentón dulce</ingrediente>
+                <ingrediente>Sal</ingrediente>
+                <ingrediente>Pimienta negra</ingrediente>
+                <ingrediente>Aceite de oliva</ingrediente>
+            </ing:ingredientes_r2>
+            <pas:pasos_r2>
+                <pasos>El primer paso para conseguir crear una receta que impresiona es hacer la escalivada. Esta receta
+                    tradicional tiene infinidad de buenas propiedades que empiezan con una cocción al horno que elimina
+                    la
+                    grasa de cualquier otro sistema.</pasos>
+                <pasos>Vamos a untar el pimiento rojo en aceite para que se pueda pelar más fácilmente. Lo ponemos en
+                    una
+                    fuente para horno, añadimos la cebolla y la berenjena.</pasos>
+                <pasos>Pondremos estos ingredientes a 180º durante unos 15 minutos hasta que estén perfectamente
+                    cocinados.
+                    Esperamos a que enfríen para pelar el pimiento, la cebolla y la berenjena, cortaremos esta base en
+                    tiras
+                    de más o menos el mismo tamaño.</pasos>
+                <pasos>Ponemos la escalivada en el vaso de la batidora, lo vamos a poner con un chorrito de aceite y
+                    sal.
+                    Trituramos todo hasta tener lista una base ideal para nuestro pollo. Le añadimos una cucharada de
+                    pimentón para darle más color.</pasos>
+                <pasos>Para esta receta usaremos pechugas, aunque podemos emplear cualquier parte del pollo que tengamos
+                    en
+                    la nevera. Es una buena manera de utilizar este tipo de ingrediente de una forma distinta.</pasos>
+                <pasos>Nos ponemos manos a la obra con las pechugas, las salpimentamos al gusto y empezamos a cocinarlas
+                    en
+                    una sartén con un poquito de aceite. Cuando empiecen a estar listas, añadimos la salsa que tenemos
+                    preparada.</pasos>
+                <pasos>Los champiñones los lavamos y troceamos para incorporarlos en este momento. Dejaremos que se
+                    cocinen
+                    durante unos minutos, cuando veamos que todos los ingredientes están bien ligados apagamos el fuego.
+                    Si
+                    nos gusta una salsa más cremosa podemos añadirle un poco de nata para cocinar o leche evaporada en
+                    función de la grasa que queramos incorporar al plato. Solo nos quedará probarlo con un poco de pan.
+                </pasos>
+            </pas:pasos_r2>
+        </rec:receta2>
+
+        <rec:receta3 nombre="Raspado de piña mexicano">
+            <ing:ingredientes_r3>
+                <ingrediente>1 piña madura</ingrediente>
+                <ingrediente>150 g de azúcar blanco</ingrediente>
+                <ingrediente>1 L de agua</ingrediente>
+                <ingrediente>1 vaina de vainilla</ingrediente>
+                <ingrediente>Jarabe de piña o de granadina</ingrediente>
+                <ingrediente>1 cucharada de coco en polvo</ingrediente>
+                <ingrediente>¼ de vaso de tequila</ingrediente>
+                <ingrediente>Aceite de oliva virgen extra</ingrediente>
+                <ingrediente>Hojas de menta para decorar</ingrediente>
+            </ing:ingredientes_r3>
+            <pas:pasos_r3>
+                <pasos>Trocear la piña en dos partes iguales. Triturar una mitad con el azúcar y refrigerar. Abrir el
+                    refrigerador cada 40 minutos y romper la capa de hielo con un tenedor. Repetir este procedimiento
+                    unas 4
+                    veces.</pasos>
+                <pasos>Picar la otra mitad de la piña en dados. Reservar.</pasos>
+                <pasos>Abrir la vaina de vainilla. Sacar las semillas y reservar con la vaina.</pasos>
+                <pasos>Calentar una sartén a fuego medio. Verter un chorrito de aceite de oliva virgen extra. Saltear
+                    los
+                    dados de piña. Agregar las semillas de vainilla y la vaina.</pasos>
+                <pasos>Verter el tequila en la sartén y esperar a que se evapore el alcohol. Retirar del fuego y
+                    reservar.
+                </pasos>
+                <pasos>Para servir, poner una porción de piña salteada en el fondo del vaso, agregar un chorrito de
+                    jarabe
+                    de piña o de granadina. Raspar una porción de piña congelada y ponerla en el vaso.</pasos>
+                <pasos>Espolvorear coco en polvo.</pasos>
+                <pasos>Decorar con una hoja de menta y servir este postre frío, antes de que el raspado se derrita.
+                </pasos>
+            </pas:pasos_r3>
+        </rec:receta3>
+
+        <rec:receta4 name="Cóctel Manhattan">
+            <ing:ingredientes_r4>
+                <ingrediente>40 ml de whisky</ingrediente>
+                <ingrediente>20 ml de vermut seco ó dulce</ingrediente>
+                <ingrediente>1 chorrito de angostura</ingrediente>
+                <ingrediente>1 aceituna o una corteza de limón</ingrediente>
+                <ingrediente>1 guinda o una cereza</ingrediente>
+            </ing:ingredientes_r4>
+            <pas:pasos_r4>
+                <pasos>Mezclamos el whisky, el vermut, la angostura y los cubitos de hielo en una coctelera y los
+                    agitamos.
+                    Si no tenemos coctelera lo podemos hacer en un recipiente bien cerrado.</pasos>
+                <pasos>Lo ponemos todo en la copa que vayamos a usar, mejor si es copa en forma de V o de cóctel. En su
+                    defecto podemos usar un vaso bajo.</pasos>
+                <pasos>Decoramos con la aceituna, la corteza o la guinda según hayamos usado vermut seco o dulce.
+                </pasos>
+            </pas:pasos_r4>
+        </rec:receta4>
+    </nom:recetas>
+</xmlAvanzado>
