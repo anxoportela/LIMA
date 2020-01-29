@@ -6,7 +6,7 @@
     xmlns:pas="http://recetas.com/recetas/pasos/" xmlns:nom="http://recetas.com/recetas/nombreReceta/">
 
     <enc:noticias>
-        <noticia1>
+        <noticia>
             <sec:seccion>
                 <sec:principal>Deportes</sec:principal>
                 <sec:secundaria>Atletismo</sec:secundaria>
@@ -66,9 +66,9 @@
                 &quot;Sandy, lo
                 hicimos&quot;.
             </not:noticia>
-        </noticia1>
+        </noticia>
 
-        <enc:noticia2>
+        <enc:noticia>
             <sec:seccion>
                 <sec:principal>Deporte local</sec:principal>
                 <sec:secundaria>San Martiño 2019</sec:secundaria>
@@ -113,9 +113,9 @@
                 encantada de
                 haber vuelto y, aún encima, conseguir la victoria&quot;.
             </not:noticia>
-        </enc:noticia2>
+        </enc:noticia>
 
-        <enc:noticia3>
+        <enc:noticia>
             <sec:seccion>
                 <sec:principal>Sucesos</sec:principal>
                 <sec:secundaria>Informática</sec:secundaria>
@@ -165,9 +165,9 @@
                 apagados y agentes del CCN tuvieron que acudir al Consistorio gaditano para ayudar a los servicios
                 informáticos locales a reparar el problema.
             </not:noticia>
-        </enc:noticia3>
+        </enc:noticia>
 
-        <enc:noticia4>
+        <enc:noticia>
             <sec:seccion>
                 <sec:principal>Noticias</sec:principal>
                 <sec:secundaria>Informática</sec:secundaria>
@@ -198,12 +198,12 @@
                 pie&quot;
                 no tendremos publicidad al utilizar Whatsapp.
             </not:noticia>
-        </enc:noticia4>
+        </enc:noticia>
     </enc:noticias>
 
     <nom:recetas>
-        <rec:receta1 nombre="Sopa de Marisco y Verdura">
-            <ing:ingredientes_r1>
+        <rec:receta nombre="Sopa de Marisco y Verdura">
+            <ing:ingredientes>
                 <ingrediente>200 gr de marisco</ingrediente>
                 <ingrediente>40 gr de pimiento morrón</ingrediente>
                 <ingrediente>49 gr de zanahoria</ingrediente>
@@ -214,8 +214,8 @@
                 <ingrediente>Pimienta</ingrediente>
                 <ingrediente>Aceite de oliva</ingrediente>
                 <ingrediente>Caldo de pescado</ingrediente>
-            </ing:ingredientes_r1>
-            <pas:pasos_r1>
+            </ing:ingredientes>
+            <pas:pasos>
                 <pasos>Esta receta de sopa de marisco y verdura es de las más fáciles de preparar que existe. El primer
                     paso
                     será preparar las verduras. Las pelaremos y las iremos picando finamente, serán la base para nuestra
@@ -243,11 +243,11 @@
                     te
                     gusta con un poco de pasta, también está buenísima, aunque por si sola ya es una sopa bastante
                     contundente y enérgica.</pasos>
-            </pas:pasos_r1>
-        </rec:receta1>
+            </pas:pasos>
+        </rec:receta>
 
-        <rec:receta2 nombre="Pollo con salsa de escalivada y champiñones">
-            <ing:ingredientes_r2>
+        <rec:receta nombre="Pollo con salsa de escalivada y champiñones">
+            <ing:ingredientes>
                 <ingrediente>250 gr de pechugas de pollo</ingrediente>
                 <ingrediente>1 pimiento rojo</ingrediente>
                 <ingrediente>1 cebolla</ingrediente>
@@ -257,8 +257,8 @@
                 <ingrediente>Sal</ingrediente>
                 <ingrediente>Pimienta negra</ingrediente>
                 <ingrediente>Aceite de oliva</ingrediente>
-            </ing:ingredientes_r2>
-            <pas:pasos_r2>
+            </ing:ingredientes>
+            <pas:pasos>
                 <pasos>El primer paso para conseguir crear una receta que impresiona es hacer la escalivada. Esta receta
                     tradicional tiene infinidad de buenas propiedades que empiezan con una cocción al horno que elimina
                     la
@@ -289,11 +289,11 @@
                     nos gusta una salsa más cremosa podemos añadirle un poco de nata para cocinar o leche evaporada en
                     función de la grasa que queramos incorporar al plato. Solo nos quedará probarlo con un poco de pan.
                 </pasos>
-            </pas:pasos_r2>
-        </rec:receta2>
+            </pas:pasos>
+        </rec:receta>
 
-        <rec:receta3 nombre="Raspado de piña mexicano">
-            <ing:ingredientes_r3>
+        <rec:receta nombre="Raspado de piña mexicano">
+            <ing:ingredientes>
                 <ingrediente>1 piña madura</ingrediente>
                 <ingrediente>150 g de azúcar blanco</ingrediente>
                 <ingrediente>1 L de agua</ingrediente>
@@ -303,8 +303,8 @@
                 <ingrediente>¼ de vaso de tequila</ingrediente>
                 <ingrediente>Aceite de oliva virgen extra</ingrediente>
                 <ingrediente>Hojas de menta para decorar</ingrediente>
-            </ing:ingredientes_r3>
-            <pas:pasos_r3>
+            </ing:ingredientes>
+            <pas:pasos>
                 <pasos>Trocear la piña en dos partes iguales. Triturar una mitad con el azúcar y refrigerar. Abrir el
                     refrigerador cada 40 minutos y romper la capa de hielo con un tenedor. Repetir este procedimiento
                     unas 4
@@ -323,18 +323,18 @@
                 <pasos>Espolvorear coco en polvo.</pasos>
                 <pasos>Decorar con una hoja de menta y servir este postre frío, antes de que el raspado se derrita.
                 </pasos>
-            </pas:pasos_r3>
-        </rec:receta3>
+            </pas:pasos>
+        </rec:receta>
 
-        <rec:receta4 name="Cóctel Manhattan">
-            <ing:ingredientes_r4>
+        <rec:receta name="Cóctel Manhattan">
+            <ing:ingredientes>
                 <ingrediente>40 ml de whisky</ingrediente>
                 <ingrediente>20 ml de vermut seco ó dulce</ingrediente>
                 <ingrediente>1 chorrito de angostura</ingrediente>
                 <ingrediente>1 aceituna o una corteza de limón</ingrediente>
                 <ingrediente>1 guinda o una cereza</ingrediente>
-            </ing:ingredientes_r4>
-            <pas:pasos_r4>
+            </ing:ingredientes>
+            <pas:pasos>
                 <pasos>Mezclamos el whisky, el vermut, la angostura y los cubitos de hielo en una coctelera y los
                     agitamos.
                     Si no tenemos coctelera lo podemos hacer en un recipiente bien cerrado.</pasos>
@@ -342,7 +342,7 @@
                     defecto podemos usar un vaso bajo.</pasos>
                 <pasos>Decoramos con la aceituna, la corteza o la guinda según hayamos usado vermut seco o dulce.
                 </pasos>
-            </pas:pasos_r4>
-        </rec:receta4>
+            </pas:pasos>
+        </rec:receta>
     </nom:recetas>
 </xmlAvanzado>

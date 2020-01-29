@@ -4,7 +4,7 @@
           xmlns:tit="http://limanews.com/noticias/titular/"
           xmlns:not="http://limanews.com/noticias/noticia/">
 
-    <noticia1>
+    <noticia>
         <sec:seccion>
             <sec:principal>Deportes</sec:principal>
             <sec:secundaria>Atletismo</sec:secundaria>
@@ -20,9 +20,9 @@
             Profesionalidad y convicción. Desde el primer momento, instauró la confianza en el grupo. Por la fe que transmitía, le ves tan convencido... Desde el primer día no mostró duda alguna. Decía: &quot;A Viena no vamos a intentarlo; sólo vamos a demostrarlo&quot;, recuerda Roig que proclamaba Kipchoge sobre el asalto a las dos horas. &quot;Sabe de su capacidad y de su esfuerzo. Y sabe que lo que tiene que hacer es correr, que todo va a funcionar si cumple a rajatabla el plan&quot;, dice Roig.
             El plan había comenzado en 2016, cuando como en la carrera espacial de la guerra fría aún había dos potencias persiguiendo el reto de las dos horas, Adidas y Nike. La marca estadounidense lo escogió en la terna de maratonianos que lo intentó en el circuito de Monza en mayo de 2017. Esa mañana a Kipchoge le sobraron 26 segundos, pero no olvidó aquel impulso. En Viena corrió con una pulsera en la muñeca derecha: un cordón amarillo con una placa plateada en la que se leía &quot;Sandy&quot;. Recordaba a Sandy Bodecker, el ejecutivo de Nike impulsor de aquel proyecto conocido como Breaking2, fallecido en octubre del año pasado. El lunes, dos días después de conseguir finalmente lo que empezaron juntos, Kipchoge tuiteó: &quot;Sandy, lo hicimos&quot;.
         </not:noticia>
-    </noticia1>
+    </noticia>
 
-    <noticia2>
+    <noticia>
         <sec:seccion>
             <sec:principal>Deporte local</sec:principal>
             <sec:secundaria>San Martiño 2019</sec:secundaria>
@@ -40,9 +40,9 @@
             La hispano-venezolana dominó la clasificación con autoridad. &quot;Estoy muy contenta. Durante todo el recorrido me he encontrado muy bien, cómoda, con fuerzas para esprintar en el tramo final. Me queda algo de pena porque no se podía correr muy rápido en la zona de piedra y adoquín, y creo que podía hacer mejor marca, pero satisfecha por la victoria en una carrera exigente como esta&quot;.
             Brea se quitó una espinita. &quot;El año pasado no pude venir a correr a Ourense, así que estoy encantada de haber vuelto y, aún encima, conseguir la victoria&quot;.
         </not:noticia>
-    </noticia2>
+    </noticia>
 
-    <noticia3>
+    <noticia>
         <sec:seccion>
             <sec:principal>Sucesos</sec:principal>
             <sec:secundaria>Informática</sec:secundaria>
@@ -60,9 +60,9 @@
             Esta nueva oleada de ataques que está centrándose en empresas europeas está teniendo lugar un mes inmediatamente después de que el Centro Criptológico Nacional, dependiente del CNI, advirtiese de la oleada de ataques con ransomware que las administraciones públicas estaban soportando.
             De hecho, el Ayuntamiento de Jerez de la Frontera llegó a estar más de una semana con sus ordenadores apagados y agentes del CCN tuvieron que acudir al Consistorio gaditano para ayudar a los servicios informáticos locales a reparar el problema.
         </not:noticia>
-    </noticia3>
+    </noticia>
 
-    <noticia4>
+    <noticia>
         <sec:seccion>
             <sec:principal>Noticias</sec:principal>
             <sec:secundaria>Informática</sec:secundaria>
@@ -74,5 +74,5 @@
            Las razones de la cancelación no se han desvelado, pero posiblemente tenga mucho que ver con el rechazo que produjo el anuncio de la inclusión de publicidad en Whatsapp.
            Sea como sea, la compañía parece que seguirá centrada en monetizar la versión para negocios del popular servicio de mensajería, Whatsapp Bussiness, con la que buscan crear una plataforma de comunicación entre las empresas y sus usuarios o consumidores, por lo que, al menos de momento, los usuarios &quot;de a pie&quot; no tendremos publicidad al utilizar Whatsapp.
         </not:noticia>
-    </noticia4>
+    </noticia>
 </noticias>
