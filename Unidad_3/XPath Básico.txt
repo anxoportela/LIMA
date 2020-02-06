@@ -1,0 +1,6 @@
+1. /equipos/
+2. /equipos/máquina/hardware/
+3. /equipos/máquina/config/
+4. /equipos/máquina/hardware/fabricante/
+5. /equipos/máquina/hardware/disco/
+6. /equipos/máquina/config/IP/

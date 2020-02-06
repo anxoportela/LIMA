@@ -1,0 +1,5 @@
+//equipos/máquina//disco[@tecnoloxía='SCSI']
+//equipos/máquina//*[.='192.168.10.45']/../OS/text()
+//equipos/máquina//procesador[@marca='AMD']/./(@marca|@velocidade)
+//equipos/máquina[@nome='COPERNICO']/config//text()
+//equipos/máquina/config/OS[contains(text(),'Windows XP')]/../../hardware/tipo[contains(text(),'Semitorre')]

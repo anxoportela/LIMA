@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<xmlAvanzado xmlns:sec="http://limanews.com/noticias/seccion/" xmlns:tit="http://limanews.com/noticias/titular/"
-    xmlns:not="http://limanews.com/noticias/noticia/" xmlns:enc="http://limanews.com/noticias/encabezado/"
-    xmlns:rec="http://recetas.com/recetas/recetas/" xmlns:ing="http://recetas.com/recetas/ingredientes/"
-    xmlns:pas="http://recetas.com/recetas/pasos/" xmlns:nom="http://recetas.com/recetas/nombreReceta/">
+<xmlAvanzado xmlns:not="http://limanews.com/noticias/seccion/" xmlns:rec="http://recetas.com/recetas/nombreReceta/">
 
-    <enc:noticias>
-        <noticia>
-            <sec:seccion>
-                <sec:principal>Deportes</sec:principal>
-                <sec:secundaria>Atletismo</sec:secundaria>
-            </sec:seccion>
-            <tit:titular>Kipchoge: "Lo importante es el atleta, las zapatillas no te hacen correr rápido"</tit:titular>
+    <not:noticias>
+        <not:noticia>
+            <not:seccion>
+                <not:principal>Deportes</not:principal>
+                <not:secundaria>Atletismo</not:secundaria>
+            </not:seccion>
+            <not:titular>Kipchoge: "Lo importante es el atleta, las zapatillas no te hacen correr rápido"</not:titular>
             <not:noticia>
                 El atleta keniano destaca su dedicación física y mental para bajar de las dos horas en el maratón y
                 relativiza la ayuda tecnológica: &quot;Soy un ser humano, no un coche&quot;
@@ -66,14 +63,14 @@
                 &quot;Sandy, lo
                 hicimos&quot;.
             </not:noticia>
-        </noticia>
+        </not:noticia>
 
-        <enc:noticia>
-            <sec:seccion>
-                <sec:principal>Deporte local</sec:principal>
-                <sec:secundaria>San Martiño 2019</sec:secundaria>
-            </sec:seccion>
-            <tit:titular>Alejandro Fernández: un pentacampeón "feliz"</tit:titular>
+        <not:noticia>
+            <not:seccion>
+                <not:principal>Deporte local</not:principal>
+                <not:secundaria>San Martiño 2019</not:secundaria>
+            </not:seccion>
+            <not:titular>Alejandro Fernández: un pentacampeón "feliz"</not:titular>
             <not:noticia>
                 Alejandro Fernández, ganador absoluto por quinta vez, se mostró &quot;muy satisfecho&quot; y reconoció
                 que
@@ -113,16 +110,16 @@
                 encantada de
                 haber vuelto y, aún encima, conseguir la victoria&quot;.
             </not:noticia>
-        </enc:noticia>
+        </not:noticia>
 
-        <enc:noticia>
-            <sec:seccion>
-                <sec:principal>Sucesos</sec:principal>
-                <sec:secundaria>Informática</sec:secundaria>
-            </sec:seccion>
-            <tit:titular>Everis, Cadena Ser y varias empresas españolas, afectadas por una oleada de ataques
+        <not:noticia>
+            <not:seccion>
+                <not:principal>Sucesos</not:principal>
+                <not:secundaria>Informática</not:secundaria>
+            </not:seccion>
+            <not:titular>Everis, Cadena Ser y varias empresas españolas, afectadas por una oleada de ataques
                 informáticos
-                con ransomware</tit:titular>
+                con ransomware</not:titular>
             <not:noticia>
                 La cadena Ser ha sido la primera en reconocerlo de forma pública: la emisora del grupo Prisa ha sufrido
                 un
@@ -165,14 +162,14 @@
                 apagados y agentes del CCN tuvieron que acudir al Consistorio gaditano para ayudar a los servicios
                 informáticos locales a reparar el problema.
             </not:noticia>
-        </enc:noticia>
+        </not:noticia>
 
-        <enc:noticia>
-            <sec:seccion>
-                <sec:principal>Noticias</sec:principal>
-                <sec:secundaria>Informática</sec:secundaria>
-            </sec:seccion>
-            <tit:titular>Facebook cancela sus planes para añadir anuncios en Whatsapp</tit:titular>
+        <not:noticia>
+            <not:seccion>
+                <not:principal>Noticias</not:principal>
+                <not:secundaria>Informática</not:secundaria>
+            </not:seccion>
+            <not:titular>Facebook cancela sus planes para añadir anuncios en Whatsapp</not:titular>
             <not:noticia>
                 Desde la compra de Whatsapp por parte de Facebook y tras acabar con el plan de pago, el gigante de las
                 redes
@@ -198,151 +195,151 @@
                 pie&quot;
                 no tendremos publicidad al utilizar Whatsapp.
             </not:noticia>
-        </enc:noticia>
-    </enc:noticias>
+        </not:noticia>
+    </not:noticias>
 
-    <nom:recetas>
+    <rec:recetas>
         <rec:receta nombre="Sopa de Marisco y Verdura">
-            <ing:ingredientes>
-                <ingrediente>200 gr de marisco</ingrediente>
-                <ingrediente>40 gr de pimiento morrón</ingrediente>
-                <ingrediente>49 gr de zanahoria</ingrediente>
-                <ingrediente>1 diente de ajo</ingrediente>
-                <ingrediente>30 gr de apio</ingrediente>
-                <ingrediente>1 tomate rojo</ingrediente>
-                <ingrediente>Sal</ingrediente>
-                <ingrediente>Pimienta</ingrediente>
-                <ingrediente>Aceite de oliva</ingrediente>
-                <ingrediente>Caldo de pescado</ingrediente>
-            </ing:ingredientes>
-            <pas:pasos>
-                <pasos>Esta receta de sopa de marisco y verdura es de las más fáciles de preparar que existe. El primer
+            <rec:ingredientes>
+                <rec:ingrediente>200 gr de marisco</rec:ingrediente>
+                <rec:ingrediente>40 gr de pimiento morrón</rec:ingrediente>
+                <rec:ingrediente>49 gr de zanahoria</rec:ingrediente>
+                <rec:ingrediente>1 diente de ajo</rec:ingrediente>
+                <rec:ingrediente>30 gr de apio</rec:ingrediente>
+                <rec:ingrediente>1 tomate rojo</rec:ingrediente>
+                <rec:ingrediente>Sal</rec:ingrediente>
+                <rec:ingrediente>Pimienta</rec:ingrediente>
+                <rec:ingrediente>Aceite de oliva</rec:ingrediente>
+                <rec:ingrediente>Caldo de pescado</rec:ingrediente>
+            </rec:ingredientes>
+            <rec:pasos>
+                <rec:pasos>Esta receta de sopa de marisco y verdura es de las más fáciles de preparar que existe. El primer
                     paso
                     será preparar las verduras. Las pelaremos y las iremos picando finamente, serán la base para nuestra
-                    sopa.</pasos>
-                <pasos>En una olla mediana añadiremos un poco de aceite y sofreiremos el ajo triturado. Debe estar unos
+                    sopa.</rec:pasos>
+                <rec:pasos>En una olla mediana añadiremos un poco de aceite y sofreiremos el ajo triturado. Debe estar unos
                     segundos, simplemente que coja color, nada más. Iremos añadiendo los vegetales para que se vayan
                     pochando poco a poco. El último de los ingredientes por ser el que mayor sabor aporta es el apio,
                     además
-                    de tardar menos en prepararse.</pasos>
-                <pasos>Cuando tenemos las verduras doradas y un poco blandas, es el momento de añadir el marisco. Para
+                    de tardar menos en prepararse.</rec:pasos>
+                <rec:pasos>Cuando tenemos las verduras doradas y un poco blandas, es el momento de añadir el marisco. Para
                     esta
                     receta podemos servirnos de cualquier tipo de marisco. Fresco o si es en lata, debe ser al natural,
                     lo
                     trocearemos y los reservaremos para este punto. La opción del marisco congelado también es
                     aceptable.
-                    Simplemente lo descongelamos y troceamos previamente.</pasos>
-                <pasos>Una vez el marisco haya soltado sus jugos y estos estén bien unidos a los de las verduras, llega
+                    Simplemente lo descongelamos y troceamos previamente.</rec:pasos>
+                <rec:pasos>Una vez el marisco haya soltado sus jugos y estos estén bien unidos a los de las verduras, llega
                     la
                     hora de incorporar el caldo de pescado. Este elemento también lo podemos comprar preparado, existen
                     multitud de marcas que lo elaboran y envasan con métodos naturales. Aunque, si tienes tiempo puedes
-                    hacerlo previamente, siempre le dará un toque más especial.</pasos>
-                <pasos>El último de los elementos que añadirá color y sabor a nuestra sopa es el tomate. Lo pelamos y lo
+                    hacerlo previamente, siempre le dará un toque más especial.</rec:pasos>
+                <rec:pasos>El último de los elementos que añadirá color y sabor a nuestra sopa es el tomate. Lo pelamos y lo
                     cortamos en trozos grandes y lo incorporamos a la sopa. Todos los ingredientes deberán estar unos 30
                     minutos a fuego medio para que queden bien integrados. Salpimentamos al gusto y podemos servirla. Si
                     te
                     gusta con un poco de pasta, también está buenísima, aunque por si sola ya es una sopa bastante
-                    contundente y enérgica.</pasos>
-            </pas:pasos>
+                    contundente y enérgica.</rec:pasos>
+            </rec:pasos>
         </rec:receta>
 
         <rec:receta nombre="Pollo con salsa de escalivada y champiñones">
-            <ing:ingredientes>
-                <ingrediente>250 gr de pechugas de pollo</ingrediente>
-                <ingrediente>1 pimiento rojo</ingrediente>
-                <ingrediente>1 cebolla</ingrediente>
-                <ingrediente>1 berenjena</ingrediente>
-                <ingrediente>100 gr de champiñones</ingrediente>
-                <ingrediente>1 cucharada de pimentón dulce</ingrediente>
-                <ingrediente>Sal</ingrediente>
-                <ingrediente>Pimienta negra</ingrediente>
-                <ingrediente>Aceite de oliva</ingrediente>
-            </ing:ingredientes>
-            <pas:pasos>
-                <pasos>El primer paso para conseguir crear una receta que impresiona es hacer la escalivada. Esta receta
+            <rec:ingredientes>
+                <rec:ingrediente>250 gr de pechugas de pollo</rec:ingrediente>
+                <rec:ingrediente>1 pimiento rojo</rec:ingrediente>
+                <rec:ingrediente>1 cebolla</rec:ingrediente>
+                <rec:ingrediente>1 berenjena</rec:ingrediente>
+                <rec:ingrediente>100 gr de champiñones</rec:ingrediente>
+                <rec:ingrediente>1 cucharada de pimentón dulce</rec:ingrediente>
+                <rec:ingrediente>Sal</rec:ingrediente>
+                <rec:ingrediente>Pimienta negra</rec:ingrediente>
+                <rec:ingrediente>Aceite de oliva</rec:ingrediente>
+            </rec:ingredientes>
+            <rec:pasos>
+                <rec:pasos>El primer paso para conseguir crear una receta que impresiona es hacer la escalivada. Esta receta
                     tradicional tiene infinidad de buenas propiedades que empiezan con una cocción al horno que elimina
                     la
-                    grasa de cualquier otro sistema.</pasos>
-                <pasos>Vamos a untar el pimiento rojo en aceite para que se pueda pelar más fácilmente. Lo ponemos en
+                    grasa de cualquier otro sistema.</rec:pasos>
+                <rec:pasos>Vamos a untar el pimiento rojo en aceite para que se pueda pelar más fácilmente. Lo ponemos en
                     una
-                    fuente para horno, añadimos la cebolla y la berenjena.</pasos>
-                <pasos>Pondremos estos ingredientes a 180º durante unos 15 minutos hasta que estén perfectamente
+                    fuente para horno, añadimos la cebolla y la berenjena.</rec:pasos>
+                <rec:pasos>Pondremos estos ingredientes a 180º durante unos 15 minutos hasta que estén perfectamente
                     cocinados.
                     Esperamos a que enfríen para pelar el pimiento, la cebolla y la berenjena, cortaremos esta base en
                     tiras
-                    de más o menos el mismo tamaño.</pasos>
-                <pasos>Ponemos la escalivada en el vaso de la batidora, lo vamos a poner con un chorrito de aceite y
+                    de más o menos el mismo tamaño.</rec:pasos>
+                <rec:pasos>Ponemos la escalivada en el vaso de la batidora, lo vamos a poner con un chorrito de aceite y
                     sal.
                     Trituramos todo hasta tener lista una base ideal para nuestro pollo. Le añadimos una cucharada de
-                    pimentón para darle más color.</pasos>
-                <pasos>Para esta receta usaremos pechugas, aunque podemos emplear cualquier parte del pollo que tengamos
+                    pimentón para darle más color.</rec:pasos>
+                <rec:pasos>Para esta receta usaremos pechugas, aunque podemos emplear cualquier parte del pollo que tengamos
                     en
-                    la nevera. Es una buena manera de utilizar este tipo de ingrediente de una forma distinta.</pasos>
-                <pasos>Nos ponemos manos a la obra con las pechugas, las salpimentamos al gusto y empezamos a cocinarlas
+                    la nevera. Es una buena manera de utilizar este tipo de ingrediente de una forma distinta.</rec:pasos>
+                <rec:pasos>Nos ponemos manos a la obra con las pechugas, las salpimentamos al gusto y empezamos a cocinarlas
                     en
                     una sartén con un poquito de aceite. Cuando empiecen a estar listas, añadimos la salsa que tenemos
-                    preparada.</pasos>
-                <pasos>Los champiñones los lavamos y troceamos para incorporarlos en este momento. Dejaremos que se
+                    preparada.</rec:pasos>
+                <rec:pasos>Los champiñones los lavamos y troceamos para incorporarlos en este momento. Dejaremos que se
                     cocinen
                     durante unos minutos, cuando veamos que todos los ingredientes están bien ligados apagamos el fuego.
                     Si
                     nos gusta una salsa más cremosa podemos añadirle un poco de nata para cocinar o leche evaporada en
                     función de la grasa que queramos incorporar al plato. Solo nos quedará probarlo con un poco de pan.
-                </pasos>
-            </pas:pasos>
+                </rec:pasos>
+            </rec:pasos>
         </rec:receta>
 
         <rec:receta nombre="Raspado de piña mexicano">
-            <ing:ingredientes>
-                <ingrediente>1 piña madura</ingrediente>
-                <ingrediente>150 g de azúcar blanco</ingrediente>
-                <ingrediente>1 L de agua</ingrediente>
-                <ingrediente>1 vaina de vainilla</ingrediente>
-                <ingrediente>Jarabe de piña o de granadina</ingrediente>
-                <ingrediente>1 cucharada de coco en polvo</ingrediente>
-                <ingrediente>¼ de vaso de tequila</ingrediente>
-                <ingrediente>Aceite de oliva virgen extra</ingrediente>
-                <ingrediente>Hojas de menta para decorar</ingrediente>
-            </ing:ingredientes>
-            <pas:pasos>
-                <pasos>Trocear la piña en dos partes iguales. Triturar una mitad con el azúcar y refrigerar. Abrir el
+            <rec:ingredientes>
+                <rec:ingrediente>1 piña madura</rec:ingrediente>
+                <rec:ingrediente>150 g de azúcar blanco</rec:ingrediente>
+                <rec:ingrediente>1 L de agua</rec:ingrediente>
+                <rec:ingrediente>1 vaina de vainilla</rec:ingrediente>
+                <rec:ingrediente>Jarabe de piña o de granadina</rec:ingrediente>
+                <rec:ingrediente>1 cucharada de coco en polvo</rec:ingrediente>
+                <rec:ingrediente>¼ de vaso de tequila</rec:ingrediente>
+                <rec:ingrediente>Aceite de oliva virgen extra</rec:ingrediente>
+                <rec:ingrediente>Hojas de menta para decorar</rec:ingrediente>
+            </rec:ingredientes>
+            <rec:pasos>
+                <rec:pasos>Trocear la piña en dos partes iguales. Triturar una mitad con el azúcar y refrigerar. Abrir el
                     refrigerador cada 40 minutos y romper la capa de hielo con un tenedor. Repetir este procedimiento
                     unas 4
-                    veces.</pasos>
-                <pasos>Picar la otra mitad de la piña en dados. Reservar.</pasos>
-                <pasos>Abrir la vaina de vainilla. Sacar las semillas y reservar con la vaina.</pasos>
-                <pasos>Calentar una sartén a fuego medio. Verter un chorrito de aceite de oliva virgen extra. Saltear
+                    veces.</rec:pasos>
+                <rec:pasos>Picar la otra mitad de la piña en dados. Reservar.</rec:pasos>
+                <rec:pasos>Abrir la vaina de vainilla. Sacar las semillas y reservar con la vaina.</rec:pasos>
+                <rec:pasos>Calentar una sartén a fuego medio. Verter un chorrito de aceite de oliva virgen extra. Saltear
                     los
-                    dados de piña. Agregar las semillas de vainilla y la vaina.</pasos>
-                <pasos>Verter el tequila en la sartén y esperar a que se evapore el alcohol. Retirar del fuego y
+                    dados de piña. Agregar las semillas de vainilla y la vaina.</rec:pasos>
+                <rec:pasos>Verter el tequila en la sartén y esperar a que se evapore el alcohol. Retirar del fuego y
                     reservar.
-                </pasos>
-                <pasos>Para servir, poner una porción de piña salteada en el fondo del vaso, agregar un chorrito de
+                </rec:pasos>
+                <rec:pasos>Para servir, poner una porción de piña salteada en el fondo del vaso, agregar un chorrito de
                     jarabe
-                    de piña o de granadina. Raspar una porción de piña congelada y ponerla en el vaso.</pasos>
-                <pasos>Espolvorear coco en polvo.</pasos>
-                <pasos>Decorar con una hoja de menta y servir este postre frío, antes de que el raspado se derrita.
-                </pasos>
-            </pas:pasos>
+                    de piña o de granadina. Raspar una porción de piña congelada y ponerla en el vaso.</rec:pasos>
+                <rec:pasos>Espolvorear coco en polvo.</rec:pasos>
+                <rec:pasos>Decorar con una hoja de menta y servir este postre frío, antes de que el raspado se derrita.
+                </rec:pasos>
+            </rec:pasos>
         </rec:receta>
 
         <rec:receta name="Cóctel Manhattan">
-            <ing:ingredientes>
-                <ingrediente>40 ml de whisky</ingrediente>
-                <ingrediente>20 ml de vermut seco ó dulce</ingrediente>
-                <ingrediente>1 chorrito de angostura</ingrediente>
-                <ingrediente>1 aceituna o una corteza de limón</ingrediente>
-                <ingrediente>1 guinda o una cereza</ingrediente>
-            </ing:ingredientes>
-            <pas:pasos>
-                <pasos>Mezclamos el whisky, el vermut, la angostura y los cubitos de hielo en una coctelera y los
+            <rec:ingredientes>
+                <rec:ingrediente>40 ml de whisky</rec:ingrediente>
+                <rec:ingrediente>20 ml de vermut seco ó dulce</rec:ingrediente>
+                <rec:ingrediente>1 chorrito de angostura</rec:ingrediente>
+                <rec:ingrediente>1 aceituna o una corteza de limón</rec:ingrediente>
+                <rec:ingrediente>1 guinda o una cereza</rec:ingrediente>
+            </rec:ingredientes>
+            <rec:pasos>
+                <rec:pasos>Mezclamos el whisky, el vermut, la angostura y los cubitos de hielo en una coctelera y los
                     agitamos.
-                    Si no tenemos coctelera lo podemos hacer en un recipiente bien cerrado.</pasos>
-                <pasos>Lo ponemos todo en la copa que vayamos a usar, mejor si es copa en forma de V o de cóctel. En su
-                    defecto podemos usar un vaso bajo.</pasos>
-                <pasos>Decoramos con la aceituna, la corteza o la guinda según hayamos usado vermut seco o dulce.
-                </pasos>
-            </pas:pasos>
+                    Si no tenemos coctelera lo podemos hacer en un recipiente bien cerrado.</rec:pasos>
+                <rec:pasos>Lo ponemos todo en la copa que vayamos a usar, mejor si es copa en forma de V o de cóctel. En su
+                    defecto podemos usar un vaso bajo.</rec:pasos>
+                <rec:pasos>Decoramos con la aceituna, la corteza o la guinda según hayamos usado vermut seco o dulce.
+                </rec:pasos>
+            </rec:pasos>
         </rec:receta>
-    </nom:recetas>
+    </rec:recetas>
 </xmlAvanzado>
