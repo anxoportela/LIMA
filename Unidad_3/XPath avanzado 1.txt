@@ -1,0 +1,6 @@
+//máquina[starts-with(@nome,'PC')]
+//máquina/hardware[count(disco)>1]
+sum(//memoria/text())
+sum(//disco[@tecnoloxía='SCSI']/@capacidade)
+//máquina[./hardware/memoria[not(@tecnoloxía)]]
+
